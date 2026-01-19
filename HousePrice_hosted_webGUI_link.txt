@@ -1,0 +1,6 @@
+Name: Stephanie Onwuagbaizu
+Matric Number: 22CG031939
+Machine Learning Algorithm Used: Random Forest Regressor
+Model Persistence Method Used: Joblib
+Live URL of the Hosted Application: [Your deployed URL - e.g., https://yourapp.onrender.com]
+GitHub Repository Link: [Your GitHub repo URL - e.g., https://github.com/yourusername/HousePrice_Project_YourName_MatricNo]
